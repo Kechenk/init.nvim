@@ -36,7 +36,7 @@ nnoremap <C-l> :call CocActionAsync('jumpDefinition')<CR>
 inoremap { {}<Esc>ha
 inoremap ( ()<Esc>ha
 inoremap " ""<Esc>ha
-inoremap ' ""<Esc>ha
+inoremap ' ''<Esc>ha
 
 nmap <F8> :TagbarToggle<CR>
 
